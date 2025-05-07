@@ -1,0 +1,14 @@
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/bin/Debug/net9.0/WorkSheet_3
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/bin/Debug/net9.0/WorkSheet_3.deps.json
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/bin/Debug/net9.0/WorkSheet_3.runtimeconfig.json
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/bin/Debug/net9.0/WorkSheet_3.dll
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/bin/Debug/net9.0/WorkSheet_3.pdb
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/WorkSheet_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/WorkSheet_3.AssemblyInfoInputs.cache
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/WorkSheet_3.AssemblyInfo.cs
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/WorkSheet_3.csproj.CoreCompileInputs.cache
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/WorkSheet_3.dll
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/refint/WorkSheet_3.dll
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/WorkSheet_3.pdb
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/WorkSheet_3.genruntimeconfig.cache
+/Users/malathyluxman/Malathy/SampleProjects/GigameProjects/DSA/Problems From Slack/Array/WorkSheet_3/obj/Debug/net9.0/ref/WorkSheet_3.dll
